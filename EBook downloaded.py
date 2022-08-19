@@ -1,6 +1,6 @@
 from libgen_api import LibgenSearch
-import time
-import datetime
+Import time
+Import datetime
 import pandas as pd
 print('EBooK Downloaded by ShaRrY')
 print('Assistant:/enter the name of Book you want to Download')
@@ -44,6 +44,7 @@ print('copy the first link ')
 
  print(links.T)
 time.sleep(20000)
+print('Developed by Sharry')
 Book()
 
 for i in range(1):
