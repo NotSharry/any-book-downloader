@@ -1,6 +1,6 @@
 from libgen_api import LibgenSearch
-Import time
-Import datetime
+import time
+import datetime
 import pandas as pd
 print('EBooK Downloaded by ShaRrY')
 print('Assistant:/enter the name of Book you want to Download')
