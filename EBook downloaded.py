@@ -1,7 +1,7 @@
 from libgen_api import LibgenSearch
 
 import pandas as pd
-
+print('EBooK Downloaded by ShaRrY')
 print('Assistant:/enter the name of Book you want to Download')
 
 BookData = input("Book Name:> ")
@@ -39,9 +39,10 @@ class Book():
  links = pd.json_normalize(download_links)
 
  links.T
+print('copy the first link ')
 
  print(links.T)
-
+time.sleep(20000)
 Book()
 
 for i in range(1):
